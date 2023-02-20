@@ -28,6 +28,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Secret History</dc:title>
 		<meta property="file-as" refines="#title">Secret History, The</meta>
+		<meta property="dcterms:alternative" refines="#title">Anecdota</meta>
+		<meta property="dcterms:alternative" refines="#title">Anecdotes</meta>
 		<dc:subject id="subject-1">Byzantine Empire -- History -- Justinian I, 527-565</dc:subject>
 		<dc:subject id="subject-2">Justinian I, Emperor of the East, 483?-565</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
