@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/procopius/the-secret-history/richard-atwater</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-02-21T03:11:20Z</dc:date>
+		<meta property="dcterms:modified">2023-02-21T03:11:20Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,13 +39,14 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">Procopius recounts the supposed true history of Justinian’s reign.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A military official and chronicler under the Eastern Roman emperor Justinian, &lt;a href="https://standardebooks.org/ebooks/procopius"&gt;Procopius&lt;/a&gt; is a key primary source for historians studying Justinian’s reign. In addition to writing a conventional history of Justinian’s wars titled &lt;i&gt;History of the Wars&lt;/i&gt; and a panegyric to Justinian’s construction projects titled &lt;i&gt;The Buildings&lt;/i&gt;, Procopius composed a &lt;i&gt;Secret History&lt;/i&gt; supposedly consisting of the incidents he withheld from his previous books. In his &lt;i&gt;Secret History&lt;/i&gt;, which was lost for centuries before it resurfaced at the Vatican Library in Rome in the 17th century, Procopius purports to unveil the celebrated Byzantine monarchs Justinian and Theodora for who they really are: corrupt, arbitrary, and literally demonic tyrants. Although considered an authentic text, its invective tone against Justinian and Theodora and its sometimes extravagant accusations (e.g. that Justinian was a demon in human form with a vanishing head) puts it in an unclear position between fiction and history. Nevertheless, the &lt;i&gt;Secret History&lt;/i&gt; continues to be an object of study by classists, and the purpose Procopius had behind composing such a scathing text remains an object of speculation.&lt;/p&gt;
+			&lt;p&gt;A military official and chronicler under the Eastern Roman emperor Justinian, &lt;a href="https://standardebooks.org/ebooks/procopius"&gt;Procopius&lt;/a&gt; is a key primary source for historians studying Justinian’s reign. In addition to writing a conventional history of Justinian’s wars titled &lt;i&gt;History of the Wars&lt;/i&gt; and a panegyric to Justinian’s construction projects titled &lt;i&gt;The Buildings&lt;/i&gt;, Procopius composed a &lt;i&gt;Secret History&lt;/i&gt; supposedly consisting of the incidents he withheld from his previous books.&lt;/p&gt;
+			&lt;p&gt;In his &lt;i&gt;Secret History&lt;/i&gt;, which was lost for centuries before it resurfaced at the Vatican Library in Rome in the 17th century, Procopius purports to unveil the celebrated Byzantine monarchs Justinian and Theodora for who they really are: corrupt, arbitrary, and literally demonic tyrants. Although considered an authentic text, its invective tone against Justinian and Theodora and its sometimes extravagant accusations (e.g. that Justinian was a demon in human form with a vanishing head) puts it in an unclear position between fiction and history. Nevertheless, the &lt;i&gt;Secret History&lt;/i&gt; continues to be an object of study by classicists, and Procopius’s purpose for composing such a scathing text remains an object of speculation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.sacred-texts.com/cla/proc/shp/index.htm</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Secret_History_of_Procopius/FDTvbThgzMoC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">40944</meta>
+		<meta property="se:reading-ease.flesch">51.11</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/procopius_the-secret-history_richard-atwater</meta>
 		<dc:creator id="author">Procopius</dc:creator>
 		<meta property="file-as" refines="#author">Procopius</meta>
@@ -80,6 +81,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
