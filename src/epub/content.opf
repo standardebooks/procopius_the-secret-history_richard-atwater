@@ -46,7 +46,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.sacred-texts.com/cla/proc/shp/index.htm</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Secret_History_of_Procopius/FDTvbThgzMoC</dc:source>
-		<meta property="se:word-count">40943</meta>
+		<meta property="se:word-count">40794</meta>
 		<meta property="se:reading-ease.flesch">51.62</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/procopius_the-secret-history_richard-atwater</meta>
 		<dc:creator id="author">Procopius</dc:creator>
