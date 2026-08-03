@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/procopius/the-secret-history/richard-atwater</dc:identifier>
 		<dc:date>2023-02-21T03:11:20Z</dc:date>
@@ -39,11 +39,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:description id="description">Procopius recounts the supposed true history of Justinian’s reign.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Procopius recounts the supposed true history of Justinian’s reign.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A military official and chronicler under the Eastern Roman emperor Justinian, &lt;a href="https://standardebooks.org/ebooks/procopius"&gt;Procopius&lt;/a&gt; is a key primary source for historians studying Justinian’s reign. In addition to writing a conventional history of Justinian’s wars titled &lt;i&gt;History of the Wars&lt;/i&gt; and a panegyric to Justinian’s construction projects titled &lt;i&gt;The Buildings&lt;/i&gt;, Procopius composed a &lt;i&gt;Secret History&lt;/i&gt; supposedly consisting of the incidents he withheld from his previous books.&lt;/p&gt;
 			&lt;p&gt;In his &lt;i&gt;Secret History&lt;/i&gt;, which was lost for centuries before it resurfaced at the Vatican Library in Rome in the 17th century, Procopius purports to unveil the celebrated Byzantine monarchs Justinian and Theodora for who they really are: corrupt, arbitrary, and literally demonic tyrants. Although considered an authentic text, its invective tone against Justinian and Theodora and its sometimes extravagant accusations (e.g. that Justinian was a demon in human form with a vanishing head) puts it in an unclear position between fiction and history. Nevertheless, the &lt;i&gt;Secret History&lt;/i&gt; continues to be an object of study by classicists, and Procopius’s purpose for composing such a scathing text remains an object of speculation.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.sacred-texts.com/cla/proc/shp/index.htm</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Secret_History_of_Procopius/FDTvbThgzMoC</dc:source>
