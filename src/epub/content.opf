@@ -39,7 +39,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>Procopius recounts the supposed true history of Justinian’s reign.</dc:abstract>
+		<meta property="schema:abstract">Procopius recounts the supposed true history of Justinian’s reign.</meta>
 		<dc:description>
 			&lt;p&gt;A military official and chronicler under the Eastern Roman emperor Justinian, &lt;a href="https://standardebooks.org/ebooks/procopius"&gt;Procopius&lt;/a&gt; is a key primary source for historians studying Justinian’s reign. In addition to writing a conventional history of Justinian’s wars titled &lt;i&gt;History of the Wars&lt;/i&gt; and a panegyric to Justinian’s construction projects titled &lt;i&gt;The Buildings&lt;/i&gt;, Procopius composed a &lt;i&gt;Secret History&lt;/i&gt; supposedly consisting of the incidents he withheld from his previous books.&lt;/p&gt;
 			&lt;p&gt;In his &lt;i&gt;Secret History&lt;/i&gt;, which was lost for centuries before it resurfaced at the Vatican Library in Rome in the 17th century, Procopius purports to unveil the celebrated Byzantine monarchs Justinian and Theodora for who they really are: corrupt, arbitrary, and literally demonic tyrants. Although considered an authentic text, its invective tone against Justinian and Theodora and its sometimes extravagant accusations (e.g. that Justinian was a demon in human form with a vanishing head) puts it in an unclear position between fiction and history. Nevertheless, the &lt;i&gt;Secret History&lt;/i&gt; continues to be an object of study by classicists, and Procopius’s purpose for composing such a scathing text remains an object of speculation.&lt;/p&gt;
